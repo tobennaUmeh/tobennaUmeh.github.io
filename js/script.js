@@ -47,7 +47,7 @@ loop:true
                
                 window.addEventListener("DOMContentLoaded", function () {
                     new Typed('#typewritter', {
-                        strings: ['<Web Engineer />', '<Beginner Developer(Noob) />'],
+                        strings: ['<Web Engineer />', '<Intermediate Developer />'],
                         typeSpeed: 100,
                         startDelay: 50,
                         showCursor: false,
